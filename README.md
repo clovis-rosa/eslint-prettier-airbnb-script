@@ -1,4 +1,4 @@
-# ESlint + Prettier + Airbnb Style Guide Configuration for React/Gatsby App
+# ESlint + Prettier + Airbnb Style Guide Configuration for React.js, Next.js and Gatsby.js Apps
 
 _This script was originally written by [Paulo Ramos](https://github.com/paulolramos/eslint-prettier-airbnb-react) and inspired by Jeffrey Zhen's [blog article](https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a)._
 <br>
